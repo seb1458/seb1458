@@ -8,4 +8,4 @@ I'm Seba, an environmental scientist, interested in data, statistics, and everyt
 I update my profile regularly with new projects!
 
 ### Projects
-[![SimpsonsRatings]([link to image on GH](https://github.com/seb1458/rating-simpsons/blob/main/plots/simpsonsRating.png))](https://github.com/seb1458/rating-simpsons/tree/main)
+[![SimpsonsRatings](https://github.com/seb1458/rating-simpsons/blob/main/plots/simpsonsRating.png)](https://github.com/seb1458/rating-simpsons/tree/main)
