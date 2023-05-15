@@ -9,7 +9,7 @@ I update my profile regularly with new projects!
 
 ### Projects
 <a href="https://github.com/seb1458/rating-simpsons/tree/main">
-  <img src="https://github.com/seb1458/rating-simpsons/blob/main/plots/simpsonsRating.png", width="45%">
+  <img src="https://github.com/seb1458/rating-simpsons/blob/main/plots/simpsonsRating.png", width="60%">
 </a> 
 
 <a href="https://github.com/seb1458/swd/tree/main/2022/09_simpleComplex">
