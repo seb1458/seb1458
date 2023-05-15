@@ -7,6 +7,8 @@ I'm Seba, an environmental scientist, interested in data, statistics, and everyt
 
 I update my profile regularly with new projects!
 
+---
+
 ### Projects
 <a href="https://github.com/seb1458/rating-simpsons/tree/main">
   <img src="https://github.com/seb1458/rating-simpsons/blob/main/plots/simpsonsRating.png", width="50%">
