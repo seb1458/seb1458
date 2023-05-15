@@ -10,12 +10,6 @@ I update my profile regularly with new projects!
 ### Projects
 <a href="https://github.com/seb1458/rating-simpsons/tree/main">
   <img src="https://github.com/seb1458/rating-simpsons/blob/main/plots/simpsonsRating.png">
-</a>
-
-<a href="https://github.com/seb1458/swd/tree/main/2022/09_simpleComplex">
+</a> <a href="https://github.com/seb1458/swd/tree/main/2022/09_simpleComplex">
   <img src="https://github.com/seb1458/swd/blob/main/2022/09_simpleComplex/img/map_plot_mod.jpg">
 </a>
-
-
-[![SimpsonsRatings](https://github.com/seb1458/rating-simpsons/blob/main/plots/simpsonsRating.png)](https://github.com/seb1458/rating-simpsons/tree/main)[![swd202209](https://github.com/seb1458/swd/blob/main/2022/09_simpleComplex/img/map_plot_mod.jpg)](https://github.com/seb1458/swd/tree/main/2022/09_simpleComplex)
-
