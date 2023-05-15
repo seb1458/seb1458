@@ -13,5 +13,5 @@ I update my profile regularly with new projects!
 </a> 
 
 <a href="https://github.com/seb1458/swd/tree/main/2022/09_simpleComplex">
-  <img src="https://github.com/seb1458/swd/blob/main/2022/09_simpleComplex/img/map_plot_mod.jpg", width="45%">
+  <img src="https://github.com/seb1458/swd/blob/main/2022/09_simpleComplex/img/map_plot_mod.jpg", width="40%">
 </a>
